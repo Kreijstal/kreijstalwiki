@@ -18,11 +18,3 @@ Automation Engineer based in Berlin.
 I build software and technical tooling for automation, data processing, and developer workflows. My interests include security, AI, electrical engineering, hardware design, SystemVerilog, open source software, packaging, and software bootstrapability.
 
 I usually work with JavaScript, C, Python, Rust, Java, and related tooling. I prefer practical CLI tools, local-first workflows, and systems that are understandable, maintainable, and easy to automate.
-
-### About
-
-This wiki is an experiment in building a free, Git-backed encyclopedia with no traditional database. All content lives in a GitHub repository and is served statically via GitHub Pages, with Deno Deploy handling edits.
-
-### Contact
-
-See the project repository for more information.

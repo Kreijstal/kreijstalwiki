@@ -38,3 +38,7 @@ KreijstalWiki is built with:
 - **GitHub API** for committing changes
 - **MathML** for mathematical notation (native browser rendering)
 - **TOON** (Token Oriented Object Notation) for structured data files
+
+## Source
+
+See the [project repository](https://github.com/Kreijstal/kreijstalwiki) for more information.
